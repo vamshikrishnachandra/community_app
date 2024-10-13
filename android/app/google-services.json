@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20407282273",
+    "firebase_url": "https://communion-app-420e9-default-rtdb.firebaseio.com",
+    "project_id": "communion-app-420e9",
+    "storage_bucket": "communion-app-420e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20407282273:android:e2fea6e9bc7e4f59d9d820",
+        "android_client_info": {
+          "package_name": "com.example.temple_community_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20407282273-8ridddionv5tljqgdr98o7b64dtss13k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARfNyTlk_-uvGPk19LuVsfkSzWx623x2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20407282273-8ridddionv5tljqgdr98o7b64dtss13k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
